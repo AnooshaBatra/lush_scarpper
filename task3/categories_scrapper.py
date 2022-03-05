@@ -48,4 +48,4 @@ def get_category_data(soup):
 
 #writing the datframe to csv file by taking data to write and path for file 
 def write_to_csv( data_frame): 
-    data_frame.to_csv("hair_paginations.csv",mode='a', header=False, index= False)   
+    data_frame.to_csv("hair_paginations1.csv",mode='a', header=False, index= False)   
