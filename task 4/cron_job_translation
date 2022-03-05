@@ -1,0 +1,13 @@
+1. 0 17 * * 0-5 
+run this job from sunday to friday at 5:00 PM/17:00 in each week of  every month.
+
+
+2. 11 5 * * 5,6 
+
+run this job at 5:11 a.m on  friday and saturday in each week of  every month.
+
+
+
+3. every Monday midnight 
+
+0 0 * * 1

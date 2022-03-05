@@ -1,0 +1,6 @@
+to run a cron job every day at 8 am
+
+0 8 * * *
+
+
+
